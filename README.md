@@ -96,5 +96,11 @@ El análisis muestra que la variable **«Tiene línea fija»** es la más releva
 
 El ejercicio permite comprender cómo la entropía y la ganancia de información ayudan a seleccionar atributos para construir árboles de decisión.
 
-- **Autora:** Luciana Mansilla.
-- **Fecha:** 23 de septiembre de 2026.
+👨‍🎓 Información académica
+
+Trabajo práctico: Árbol de Decisión - Empresa de Telecomunicaciones
+Materia: Procesamiento de Aprendizaje Automático
+Alumna: Luciana Mansilla
+Docente: Yanina Scudero
+Fecha: 23 de septiembre de 2026
+
